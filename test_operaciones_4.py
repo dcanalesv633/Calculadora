@@ -14,7 +14,7 @@ def test_suma():
             (3, suma(2,5),10),
             (7,3,10),
             (3,7,10),
-            (7,8,14)
+            (7,8,15)
         ]
 )
 def test_suma_multi(input_a, input_b, expected):
